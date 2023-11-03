@@ -22,10 +22,10 @@
   <a href="mailto:Kriyrium@protonmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="www.linkedin.com/in/selahaddin-inan" target="_blank">
+  <a href="www.linkedin.com/in/selahaddin-inan" target="www.linkedin.com/in/selahaddin-inan">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/Han-Selo" target="_blank">
+  <a href="www.linkedin.com/in/selahaddin-inan" target="www.linkedin.com/in/selahaddin-inan">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
@@ -35,8 +35,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,flask, bootstrap,html,css,vscode,github,figma,git" />
 </div>
 
 <br/>
@@ -45,7 +44,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Han-Selo/HanSelo/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Han-Selo/Han-Selo/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
