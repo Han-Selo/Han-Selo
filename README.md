@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a web app**
  
- 🌱 I’m currently learning **Rust, Django, DSA**
+ 🌱 I’m currently learning **C++, Rust, Data Structures & Algorithms**
  
  </div>
  
