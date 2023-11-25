@@ -13,8 +13,6 @@
  🔭 I’m currently working on **a web app**
  
  🌱 I’m currently learning **Rust, Django, DSA**
-
- 💬 Ask me about **Python, Computers, Video Games... or anything [here]()**
  
  </div>
  
